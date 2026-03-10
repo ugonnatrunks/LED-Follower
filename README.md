@@ -49,3 +49,6 @@ The system provides real-time feedback through the serial console. It uses ANSI 
 Pattern 1 Executing!
 Button 2 Pressed, Pattern Changed!
 Button 4 Pressed, Rate Changed!
+```
+
+## 📺 Video Demo
