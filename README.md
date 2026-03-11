@@ -2,6 +2,12 @@
 
 This project implements a multi-threaded control system on the nRF52832, designed to manage LED blink patterns and timing indicators through user-defined hardware inputs. The system leverages Zephyr RTOS primitives-specifically Event Objects, Mutexes, and Thread Management to ensure responsive control over three distinct LED patterns while maintaining a secondary background time indicator task.
 
+Overall, the project works as follows: 
+- Displays three different patterns on LED2.
+- Pressing BUTTON2 transitions between each pattern
+- Pressing BUTTON4 toggles the speed at which the patterns are displayed on LED2, between 2x speed, 1x speed, and 0.5x speed.
+- LED4 blinks repeatedly for 500ms on and 500ms off to give a sense of time. 
+
 ---
 
 ## 🎯 Top Summary
