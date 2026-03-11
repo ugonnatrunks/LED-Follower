@@ -52,3 +52,15 @@ Button 4 Pressed, Rate Changed!
 ```
 
 ## 📺 Video Demo
+
+
+
+https://github.com/user-attachments/assets/18b76543-6fac-4f49-9f94-b9e10590dabf
+
+
+
+
+
+
+
+
